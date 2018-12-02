@@ -22,32 +22,22 @@ The following are some non-functional requirements for the project:
 ## Deliveries
 
 ### Problem Formulation
-You are going to define and formulate the problem you want to solve in a problem statement. The project formulation is the product of the first two weeks, so take your time to generate a lot of ideas before deciding. 
 
-### Project Plan (Analysis, design and test plan)
-* You must analyse the problem and describe it before implementing it. *Use for instance Activity or State Machine diagrams for this purpose.*
+How can led light switch be build using the ARV ATmega2560, and can this light be given other useful functionalities?
+Questions to be answered:
+-	How will the sensors and actuators be implemented? 
+-	How does a light switch work?
+-	How can you toggle multiple leds?
+-	Which fields rely on similar technologies.?
+-	How should the code be written in assembler?
 
-* Make a plan for testing your implementation. The plan should provide details on how to test the individual components or actions of your implementation.
+## Analyses
 
-* When you know what to solve and how, split the work into tasks and devide them between group members. *You can use githubs build in issue tracking or any other task tracking system to manage your tasks*
+Astah diagrams can be found in uploaded in the respitory
 
-### Implementation
-* Implement the project in AVR assembler. 
-* The code must be well-structured and extensively commented, and you should apply software patterns to solve general problems. 
-* The code should be keept under version control in a fork of this git repository.
+### Test plan
 
-## Practical Information
-### Definition of Done
-The project should be demonstrated for me on class and your implementation code handed in on github in the form of a pull request. Analysis, design and other relevant material should be documented in the README.md. See section below for details on how to do that.
+When starting the program all leds are off. When the button is pressed the first led will light up, and if it is pressed again the second will light op after and so on until all leds are on. When all the leds are on it will reverse. Once button is pressed now the last led will be turned of and then the second last an so on until all leds are of. 
+ 
 
-*All group members should have participated actively in producing code and thus it should be possible to find all group members in the git commit history.*
 
-### Deadline 
-Your implementation should be ready and handed in **before** the first lesson of week 49 (8.20am)
-
-### Github
-Before starting to commit any code, this repository should be forked to the github account of a group member. This forked repository is where you are going to create your Atmel Studio project and commit your assembler code. Eventually you can "Hand in" by creating a pull request. This will enable me to see your code and provide feedback on your project.
-
-The documentation should be written in the README.md on the repository. You can use markdown to format the document ([Markdown cheatsheet here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf))
-
-If you are unsure of the details, ask me or a fellow student og go watch a video (like this: https://www.youtube.com/watch?v=_NrSWLQsDL4) or read the documentation.
