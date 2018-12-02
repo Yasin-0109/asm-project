@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\Debug\Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Project.map</FILE>
+  <FILE>Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>16</LINE></main>
+  <check_press_loop><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>34</LINE></check_press_loop>
+  <toggle_leds><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>46</LINE></toggle_leds>
+  <check_release_loop><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>39</LINE></check_release_loop>
+  <off_pins><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>77</LINE></off_pins>
+  <set_pin_13><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>108</LINE></set_pin_13>
+  <set_pin_12><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>115</LINE></set_pin_12>
+  <set_pin_11><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>122</LINE></set_pin_11>
+  <set_pin_10><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>129</LINE></set_pin_10>
+  <set_pin_5><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>136</LINE></set_pin_5>
+  <set_pin_4><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>143</LINE></set_pin_4>
+  <set_pin_3><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>150</LINE></set_pin_3>
+  <all_on><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>71</LINE></all_on>
+  <off_pin_3><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>153</LINE></off_pin_3>
+  <off_pin_4><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>146</LINE></off_pin_4>
+  <off_pin_5><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>139</LINE></off_pin_5>
+  <off_pin_10><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>132</LINE></off_pin_10>
+  <off_pin_11><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>125</LINE></off_pin_11>
+  <off_pin_12><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>118</LINE></off_pin_12>
+  <off_pin_13><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>111</LINE></off_pin_13>
+  <all_off><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>99</LINE></all_off>
+  <loop><FILE>C:\Users\yabis\OneDrive\Dokumenter\Atmel Studio\7.0\Project\Project\main.asm</FILE><LINE>161</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
